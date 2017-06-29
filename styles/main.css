@@ -71,6 +71,11 @@ body {
   color: rgb(233,50,117);
 }
 
+.links-container .navbar-link:active {
+  box-shadow:
+  inset 0px 0px 1000px white;
+}
+
 
 /* Medium screens (640px) */
 @media (min-width: 640px) {
