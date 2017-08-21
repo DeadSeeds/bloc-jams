@@ -38,15 +38,15 @@ var albumCables = {
   year: '2016',
   albumArtUrl: 'assets/images/album_covers/Cables_cover.jpg',
   songs: [
-    { title: 'Loss of Gain', duration: '3:10' },
-    { title: 'Hang the Moon', duration: '2:59' },
-    { title: 'A Lasting Mark', duration: '4:19' },
-    { title: 'Wisdom Teeth', duration: '3:36' },
-    { title: 'Recurring State', duration: '1:16' },
-    { title: 'Kill Yourself', duration: '2:35' },
-    { title: 'Fool Me Twice', duration: '3:05' },
-    { title: 'Strongarm', duration: '4:19' },
-    { title: 'Youll Be Sorry', duration: '3:36' },
-    { title: 'Gift Horse', duration: '3:14' }
+    { title: 'Loss of Gain', duration: '3:10', audioUrl: 'assets/music/01\ Loss\ Of\ Gain' },
+    { title: 'Hang the Moon', duration: '2:59', audioUrl: 'assets/music/02\ Hang\ the\ Moon'},
+    { title: 'A Lasting Mark', duration: '4:19', audioUrl: 'assets/music/03\ A\ Lasting\ Mark'},
+    { title: 'Wisdom Teeth', duration: '3:36', audioUrl: 'assets/music/04\ Wisdom\ Teeth'},
+    { title: 'Recurring State', duration: '1:16', audioUrl: 'assets/music/05\ Recurring\ State'},
+    { title: 'Kill Yourself', duration: '2:35', audioUrl: 'assets/music/06\ Kill\ Yourself'},
+    { title: 'Fool Me Twice', duration: '3:05', audioUrl: 'assets/music/07\ Fool\ Me\ Twice'},
+    { title: 'Strongarm', duration: '4:19', audioUrl: 'assets/music/08\ Strongarm'},
+    { title: 'Youll Be Sorry', duration: '3:36', audioUrl: 'assets/music/09\ Youll\ Be\ Sorry'},
+    { title: 'Gift Horse', duration: '3:14', audioUrl: 'assets/music/010\ Gift\ Horse'}
   ]
 };
